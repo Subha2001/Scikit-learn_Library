@@ -1,0 +1,151 @@
+ID,Company,Model,Type,Fuel,Transmission,Engine,Mileage ,Kms_driven,Buyers,Horsepower (kw),Year,Price (Lakhs)
+1,Maruti,Alto,Hatchback,Petrol,Manual,796,19.7,45000,2,32,2010,1.2
+2,Maruti,Wagon R,Hatchback,Petrol,Manual,998,20.5,40005,2,46,2011,3
+3,Maruti,Wagon R,Hatchback,Petrol,Manual,998,20.5,40005,2,46,2018,4
+4,Maruti,Ertiga,MUV,Petrol,Automatic,1462,18.5,28000,2,73,2012,5.1
+5,Maruti,Ertiga,MUV,Petrol,Automatic,1462,18.5,40000,2,73,2012,4
+6,Maruti,Swift,Hatchback,Petrol,Automatic,1197,23.5,36000,2,61,2013,1.58
+7,Maruti,Ignis,Hatchback,Petrol,Automatic,1200,20.89,41000,2,60,2014,2.5
+8,Maruti,Ignis,Hatchback,Petrol,Automatic,1200,20.89,41000,2,60,2016,3
+9,Maruti,Ciaz,Sedan,Petrol,Automatic,1462,20.04,25000,2,67,2015,6.1
+10,Maruti,Ciaz,Sedan,Petrol,Automatic,1462,20.04,15000,2,67,2015,5
+11,Maruti,Baleno,Hatchback,Petrol,Automatic,1197,19.56,24530,2,61,2016,2.3
+12, Tata,Altroz,Hatchback,Diesel,Manual,1497,25.11,60000,2,72,2017,2.8
+13, Tata,Altroz,Hatchback,Diesel,Manual,1497,25.11,40000,2,72,2015,3.4
+14, Tata,Nexon,SUV,Diesel,Automatic,1199,21.5,60000,2,88,2018,5.02
+15, Tata,Tiago,Hatchback,Petrol,Automatic,1199,23.84,30000,2,62,2019,3.12
+16, Tata,Tiago,Hatchback,Petrol,Automatic,1199,23.84,50000,2,62,2019,3.8
+17, Tata,Harrier,SUV,Diesel,Automatic,1956,17,32000,2,123,2012,9.35
+18, Tata,Harrier,SUV,Diesel,Automatic,1956,17,20000,2,123,2016,6.7
+19, Tata,Tigor,Sedan,Petrol,Automatic,1199,20.3,48660,2,62,2006,2.87
+20, Tata,Safari,SUV,Diesel,Automatic,1956,14.08,45000,2,123,2007,10
+21, Tata,Safari,SUV,Diesel,Automatic,1956,14.08,10000,2,123,2019,4.7
+22, Tata,Nano,Hatchback,Diesel,Manual,624,33,30540,2,27,2006,0.8
+23, Mahindra,Thar,SUV,Diesel,Manual,2184,16.55,4000,2,105,2015,8.24
+24, Mahindra,Bolero,SUV,Diesel,Manual,1493,16.7,16934,2,65,2013,4.7
+25, Mahindra,Bolero,SUV,Diesel,Manual,1493,16.7,5000,2,65,2013,8.1
+26, Mahindra,Scorpio,SUV,Diesel,Manual,2179,15,43000,2,95,2014,5.29
+27, Mahindra,Scorpio,SUV,Diesel,Manual,2179,15,43000,2,95,2012,6.54
+28, Mahindra,XUV300,SUV,Diesel,Automatic,1197,20,35550,2,84,2015,3.8
+29, Mahindra,XUV500,SUV,Diesel,Automatic,2189,15.1,43000,2,113,2009,7.5
+30, Mahindra,XUV500,SUV,Diesel,Automatic,2189,15.1,40000,2,113,2009,3.32
+31, Honda,Amaze,Sedan,Diesel,Automatic,1498,24.7,39522,2,64,2008,4.1
+32, Honda,Amaze,Sedan,Diesel,Automatic,1498,24.7,39522,2,64,2016,4.5
+33, Honda,City,Sedan,Diesel,Manual,1498,24.1,39000,2,81,2018,6.45
+34, Honda,WR-V,SUV,Diesel,Manual,1199,23.7,55000,2,70,2005,4.9
+35, Honda,Jazz,Hatchback,Petrol,Automatic,1199,17.1,55000,2,65,2020,5.8
+36, Honda,Jazz,Hatchback,Petrol,Automatic,1199,17.1,25000,2,65,2020,5
+37,Hyundai,Creta,SUV,Diesel,Automatic,1497,21,55000,2,102,2008,5.2
+38,Hyundai,Verna,Sedan,Diesel,Automatic,1497,25,72000,2,112,2010,6.31
+39,Hyundai,Verna,Sedan,Diesel,Automatic,1497,25,72000,2,112,2009,0.9
+40,Hyundai,i10,Hatchback,Diesel,Automatic,1197,24.9,15975,2,81,2011,1.9
+41,Hyundai,i10,Hatchback,Diesel,Automatic,1197,24.9,28000,2,81,2011,5.67
+42,Hyundai,i20,Hatchback,Diesel,Automatic,1197,25.2,70000,2,74,2012,3.66
+43,Hyundai,Alcazar,SUV,Diesel,Automatic,1999,20.4,23452,2,84,2013,8.2
+44,Hyundai,Santro,Hatchback,Petrol,Automatic,1086,20.3,35522,2,47,2014,2.33
+45,Hyundai,Aura,Sedan,Diesel,Automatic,1197,25.4,48508,2,62,2015,1.67
+46,Hyundai,Aura,Sedan,Diesel,Automatic,1197,25.4,48508,2,62,2018,4
+47,Hyundai,Elantra,Sedan,Petrol,Automatic,1999,14.62,15487,2,98,2016,12.93
+48, Renault,Duster,SUV,Petrol,Automatic,1498,16.5,39000,2,97,2017,5.93
+49, Renault,Kwid,Hatchback,Petrol,Automatic,799,25,39000,2,45,2018,1.56
+50, Renault,Kwid,Hatchback,Petrol,Automatic,799,25,35000,2,45,2018,1.89
+51, Renault,Triber,MUV,Petrol,Automatic,999,19,82000,2,52,2009,2.12
+52, Renault,Triber,MUV,Petrol,Automatic,999,19,82000,2,52,2017,3.72
+53, Renault,Kiger,SUV,Petrol,Automatic,999,20,20000,2,63,2020,2.29
+54,Ferrari,812,Convertible,Petrol,Automatic,6496,6.7,68000,2,584,2018,190
+55,Ferrari,Portofino,Convertible,Petrol,Automatic,3855,9,32000,2,440,2016,120
+56,Ferrari,Roma,Coupe,Petrol,Automatic,3855,8.93,32000,3,454,2019,100
+57,Ferrari,Roma,Coupe,Petrol,Automatic,3855,8.93,38000,3,454,2017,106
+58,Ferrari,F8 Tributo,Coupe,Petrol,Automatic,3902,7.75,27000,2,709,2014,200
+59,Ferrari,SF90 Stradale,Coupe,Petrol,Automatic,3990,18,33000,2,985,2015,350
+60,Ferrari,SF90 Stradale,Coupe,Petrol,Automatic,3990,18,40000,2,985,2017,300
+61,Ferrari,La Ferrari,Coupe,Petrol,Automatic,6262,11,60000,2,795,2018,400
+62,Ferrari,La Ferrari,Coupe,Petrol,Automatic,6262,11,60000,2,795,2016,200
+63,Ferrari,458 spider,Coupe,Petrol,Automatic,4497,5.5,46000,3,561,2020,262
+64,Land Rover,Defender,SUV,Petrol,Automatic,1997,14.2,46000,2,257,2012,38
+65,Land Rover,Discovery,SUV,Petrol,Automatic,1997,13.17,36000,2,250,2014,65
+66,Land Rover,Range Rover,SUV,Petrol,Automatic,2995,9.32,55000,3,286,2018,133
+67,Land Rover,Range Rover,SUV,Petrol,Automatic,2995,9.32,40000,3,286,2018,90
+68,Land Rover,Range Rover Evoque,SUV,Petrol,Automatic,1998,10.6,16000,2,166,2015,40.33
+69, Kia,Seltos,SUV,Diesel,Automatic,1493,16,36000,2,94,2020,8.09
+70, Kia,Seltos,SUV,Diesel,Automatic,1493,16,36000,2,94,2014,5
+71, Kia,Sonet,SUV,Petrol,Automatic,1197,21,47000,2,74,2021,4.72
+72, Kia,Sonet,SUV,Petrol,Automatic,1197,21,10000,2,74,2017,4
+73, Kia,Carnival,MUV,Diesel,Automatic,2199,14,23452,2,146,2010,7.83
+74,Toyota ,Fortuner,SUV,Petrol,Automatic,2694,10.26,35522,3,132,2011,10.77
+75, Kia,Sonet,SUV,Petrol,Automatic,1197,21,47000,2,74,2021,4.72
+76, Kia,Sonet,SUV,Petrol,Automatic,1197,21,47000,2,74,2013,7.8
+77,Toyota ,Glanza,Hatchback,Petrol,Automatic,1197,22,15487,2,63,2013,5.15
+78,Toyota ,Yaris,Sedan,Gasoline,Automatic,1496,18,39000,2,74,2014,6.16
+79,Toyota ,Innova,SUV,Petrol,Automatic,1998,14,39000,2,115,2015,10
+80,Toyota ,Innova,SUV,Petrol,Automatic,1998,14,20000,2,115,2015,6
+81,Toyota ,Urban Cruiser,SUV,Petrol,Automatic,1462,18,35000,2,76,2016,5.51
+82,Toyota ,Urban Cruiser,SUV,Petrol,Automatic,1462,18,35000,2,76,2013,8
+83,Toyota ,Vellfire,MUV,Hybride,Automatic,2494,16.35,30874,2,84,2017,67
+84,Jaguar,F Pace,SUV,Diesel,Automatic,1997,12.9,15000,2,167,2018,50.81
+85,Jaguar,XF,Sedan,Petrol,Automatic,1997,13.12,29685,2,152,2019,35
+86,Jaguar,XF,Sedan,Petrol,Automatic,1997,13.12,10000,2,152,2019,30
+87,Jaguar,XE,Sedan,Petrol,Automatic,1997,12.66,41000,2,147,2020,20.04
+88,Jaguar,XE,Sedan,Petrol,Automatic,1997,12.66,20000,2,147,2020,50
+89,Jaguar,F Type,Coupe,Petrol,Automatic,5000,9.3,25000,2,322,2015,78
+90,Jaguar,I Pace,SUV,Eletric,Automatic,0,12,130000,2,167,2019,80
+91,Porsche,Macan,SUV,Petrol,Automatic,2995,11.24,24530,2,228,2018,34.98
+92,Porsche,Macan,SUV,Petrol,Automatic,2995,11.24,24530,2,228,2017,30
+93,Porsche,Cayenne,SUV,Hybride,Automatic,3996,20,130000,2,327,2020,40
+94,Porsche,Cayenne,SUV,Hybride,Automatic,3996,20,7000,2,327,2020,50
+95,Porsche,911,Coupe,Petrol,Automatic,2981,10,19000,2,358,2014,88
+96,Porsche,718,Coupe,Petrol,Automatic,3995,9.17,60000,4,235,2013,80
+97,Porsche,718,Coupe,Petrol,Automatic,3995,9.17,60000,4,235,2016,80
+98,Porsche,Panamera,Sedan,Petrol,Automatic,3996,9,60000,2,353,2014,80
+99, Ford,EcoSport,SUV,Diesel,Manual,1498,18,30000,2,82,2012,3.17
+100, Ford,EcoSport,SUV,Diesel,Manual,1498,18,40000,2,82,2015,7.3
+101, Ford,Endeavour,SUV,Diesel,Automatic,1996,13,41000,2,105,2013,18.74
+102, Ford,Figo,Hatchback,Diesel,Manual,1499,16,35000,3,70,2014,2.58
+103, Ford,Figo,Hatchback,Diesel,Manual,1499,16,20000,3,70,2020,3.4
+104, Ford,Freestyle,Hatchback,Diesel,Manual,1499,22,54000,2,72,2015,4.17
+105, Ford,Aspire,Sedan,Diesel,Manual,1499,22,13000,2,72,2016,8.17
+106, Audi,Q8,SUV,Diesel,Automatic,2995,9,16000,2,230,2017,111
+107, Audi,Q8,SUV,Diesel,Automatic,2995,9,10000,2,230,2013,50
+108, Audi,A6,Sedan,Petrol,Automatic,1984,14,38200,2,157,2018,36.46
+109, Audi,A8,Sedan,Petrol,Automatic,2995,12,22000,2,220,2019,75
+110, Audi,A8,Sedan,Petrol,Automatic,2995,12,30000,2,220,2019,60
+111, Audi,RS7,Sedan,Petrol,Automatic,3996,8.7,22000,2,383,2020,100
+112, Audi,RS7,Sedan,Petrol,Automatic,3996,8.7,50000,2,383,2020,76
+113, Audi,RS Q8,SUV,Petrol,Automatic,3998,8,50000,2,375,2018,100
+114, Audi,RS Q8,SUV,Petrol,Automatic,3998,8,50000,2,375,2015,100
+115, Audi,Q2,SUV,Petrol,Automatic,1984,15,13500,3,130,2015,19.96
+116, Audi,e-tron,Sedan,Eletric,Automatic,0,18,30000,2,210,2014,70
+117, Audi,e-tron,Sedan,Eletric,Automatic,0,12,50000,2,210,2017,27
+118, Audi,RS5 2021,Coupe,Petrol,Automatic,2894,10.87,50000,2,290,2013,87
+119, Audi,S5 Sportback,Sedan,Petrol,Automatic,2994,11,20000,3,220,2015,50
+120, Audi,S5 Sportback,Sedan,Petrol,Automatic,2994,11,20000,3,220,2018,70
+121, Audi,A4,Sedan,Petrol,Automatic,1984,17.42,39000,2,120,2017,23.96
+122,BMW,M5,Sedan,Petrol,Automatic,4395,9.12,30000,2,376,2019,81
+123,BMW,M5,Sedan,Petrol,Automatic,4395,9.12,12000,2,376,2019,20
+124,BMW,X5,SUV,Petrol,Automatic,2998,11,3600,3,327,2012,50.6
+125,BMW,X5,SUV,Petrol,Automatic,2998,11,3600,3,327,2020,32
+126,BMW,X6,SUV,Petrol,Automatic,2998,10,32000,2,215,2013,65
+127,BMW,X7,SUV,Diesel,Automatic,2993,12,38000,2,205,2014,70
+128,BMW,X7,SUV,Diesel,Automatic,2993,12,15000,2,205,2018,40
+129,BMW,X1,SUV,Petrol,Automatic,1998,18,45000,3,166,2015,21.32
+130,BMW,Z4,Coupe,Petrol,Automatic,1998,14,35000,2,212,2016,49.01
+131,BMW,X3,SUV,Diesel,Automatic,1998,15,50000,2,132,2017,31.44
+132,BMW,X3,SUV,Diesel,Automatic,1998,15,20000,2,132,2014,23
+133,BMW,X4,SUV,Petrol,Automatic,2993,13,32000,5,190,2018,50.56
+134,BMW,i8,Coupe,Petrol,Automatic,1499,47.45,45863,3,215,2019,162
+135,BMW,i8,Coupe,Petrol,Automatic,1499,47.45,40000,3,215,2017,67
+136,Lamborghini,Urus,SUV,Petrol,Automatic,3996,7.87,60500,4,630,2016,181
+137,Lamborghini,Aventador,Coupe,Petrol,Automatic,6498,7.69,12500,3,740,2017,301
+138,Lamborghini,Aventador,Coupe,Petrol,Automatic,6498,7.69,15000,3,740,2019,167
+139,Lamborghini,Huracan,Coupe,Petrol,Automatic,5204,11.24,60000,5,626,2019,122
+140,Lamborghini,Gallardo,Coupe,Petrol,Automatic,5204,6.4,35000,4,522,2020,111
+141,Lamborghini,Gallardo,Coupe,Petrol,Automatic,5204,6.4,40000,4,522,2017,200
+142,Lamborghini,Murcielago,Coupe,Petrol,Automatic,6496,3.8,35000,4,651,2018,100
+143,Lamborghini,Sian,Coupe,Gas,Semi-Auto,6500,8.1,45000,2,800,2015,115
+144,Lamborghini,Sian,Coupe,Gas,Semi-Auto,6500,8.1,25000,2,800,2019,89
+145,Rolls Royce,Phantom,Sedan,Petrol,Automatic,6749,6.71,35000,4,417,2018,605
+146,Rolls Royce,Phantom,Sedan,Petrol,Automatic,6749,6.71,35000,4,417,2016,189
+147,Rolls Royce,Ghost,Sedan,Petrol,Automatic,6592,8.4,38000,3,430,2019,370
+148,Rolls Royce,Cullinan,Sedan,Petrol,Automatic,6749,9.5,18000,5,430,2016,495
+149,Rolls Royce,Cullinan,Sedan,Petrol,Automatic,6749,9.5,40000,5,430,2015,280
+150,Rolls Royce,Dawn,Sedan,Petrol,Automatic,6598,9.8,13500,3,420,2017,292
